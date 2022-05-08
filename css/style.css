@@ -2135,6 +2135,7 @@ h6 {
 .slide__slide picture {
   width: 100%;
   display: flex;
+  justify-content: center;
 }
 .slide__slide img {
   max-width: 100%;
